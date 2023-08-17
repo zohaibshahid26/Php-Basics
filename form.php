@@ -8,6 +8,7 @@
 </head>
 
 <body>
+    <h1>Form</h1>
     <form class="userform" action="form.php" method="post">
         <label for="name">Name</label>
         <input type="text" name="name" placeholder="Enter your name"><br>
